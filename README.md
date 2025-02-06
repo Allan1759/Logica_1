@@ -1,3 +1,3 @@
 # Logica_1
 
-## Lógica de programação utilizando fluxograma.
+## Introdução a lógica de programação utilizando fluxograma.
